@@ -1,0 +1,14 @@
+{
+  "name": "hw1",
+  "version": "0.0.1",
+  "author": "helped_by_google_code",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "*",
+    "twitter": "*",
+    "socket.io": "*"
+  }
+}
